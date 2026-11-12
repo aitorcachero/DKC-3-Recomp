@@ -1,0 +1,8 @@
+display_name    = Donkey Kong Country 3
+rom_file        = DKC 3 (USA).sfc
+expected_crc32  = 448eec19
+expected_sha256 = 2277a2d8dddb01fe5cb0ae9a0fa225d42b3a11adccaeafa18e3c339b3794a32b
+rom_size        = 4194304
+mapping         = hirom
+region          = USA
+game_id         = snesrecomp-448eec19
